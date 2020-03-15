@@ -1,0 +1,29 @@
+body{background-image: url(about.jpg); background-size: cover; background-repeat: no-repeat;background-attachment: fixed;}
+
+
+
+
+.navbar-nav{
+    padding: 14px 16px;
+    text-transform: capitalize;
+    font-size: 18px;
+    font-family: sans-serif;}
+
+nav.navbar {
+ 
+   background-color: #333333;
+}
+
+.img-wrap {width:100%; margin: 50px 0px;}
+
+.img-wrap img{width: 100%; padding:10px; border-radius: 50%; box-shadow: 0 0 10px #999999;}
+
+.container p{font-family: Verdana, Geneva, Tahoma, sans-serif; text-transform: initial; color: white; font-size: larger; margin: 10px 0px;}
+
+.wrapper{width: 90%; margin-left: auto; margin-right: auto; border: 1px solid white;}
+
+/* ID */
+
+#aboutus h2{margin-top: 150px; margin-bottom: 25px; font-family: 'Times New Roman', Times, serif; 
+    text-transform: uppercase; color: white; text-align: center;}
+

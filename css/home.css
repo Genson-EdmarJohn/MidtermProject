@@ -1,0 +1,36 @@
+/* TAGS */
+body{background-image: url(home.png); background-size: cover;background-attachment: fixed;}  
+
+.navbar-nav{
+     padding: 14px 16px;
+     text-transform: capitalize;
+     font-size: 18px;
+     font-family: sans-serif;}
+
+/* CLASS */
+
+
+nav.navbar {
+  
+    background-color: #333333;
+}
+
+.jumbotron {width: 35%; background-color:transparent; }
+
+h2.display-4 {font-sizem:50px; text-transform: capitalize; text-align: left; color: white}
+
+p.lead { color: white; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;text-transform: uppercase; font-style: italic;}
+p.nlead {color: white; text-transform: initial; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+
+.my-4 {border-top: 2px solid white;}
+
+
+
+
+.wrapper{width: 90%; margin-left: auto; margin-right: auto; border: 1px solid white;}
+
+/* ID */
+
+#hello {font-family: Arial, Helvetica, sans-serif; text-transform: capitalize; color: white;font-weight: 800px;float: left;}
